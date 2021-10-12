@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+}
+.hero {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,105,233,0.8),rgba(0,105,233,0.8)),
+    url("background.png");
+    background-position: center;
+    background-size: cover;
+}
+.nav-bar {
+    height: 12%;
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+.nav-bar-left {
+    width: 70%;
+       
+}
+.nav-bar-left ul {
+    display: inline-flex;
+    padding-left: 50px;
+    padding-top: 0px;
+    position: absolute;
+}
+.nav-bar-left li {
+    padding-left: 25px;
+    list-style: none;
+ }
+.nav-bar-left a {
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+}
+.nav-bar-left img {
+    width: 85px;
+    height: 41px;
+    color: #fff;
+    padding-top: 4px;
+    padding-left: 4px;;
+}
