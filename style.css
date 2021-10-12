@@ -55,3 +55,44 @@ body {
     float: right;
     margin-right: 10px;
 }
+.upper-content {
+    
+}
+.upper-content h1 {
+    color: lightblue;
+    padding-left: 220px;
+    font-style: italic;
+    font-size: 69px;
+}
+.upper-content h3 {
+    color: lightblue;
+    font-size: 49px;
+    padding-left: 115px;
+    margin-top: -70px;
+}
+.lower-content {
+    padding-left: 495px;
+    margin-top: 143px;
+}
+.lower-content h3 {
+    font-size: 70px;
+    color: lightblue;
+}
+.lower-content h4 {
+    color: lightblue;
+    font-size: 40px;
+    margin-top: -89px;
+    padding-left: 24px;
+}
+.lower-content h5 {
+    color: lightblue;
+    font-size: 25px;
+    margin-top: -66px;
+    padding-left: 163px;
+}
+.content-left img {
+    width: 402px;
+    margin-top: -481px;
+    float: right;
+    margin-right: 265px
+}
